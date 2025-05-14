@@ -109,5 +109,6 @@ ls *.bam | awk '{
 ## 📞 Contacto
 
 Para dudas o sugerencias, puedes abrir un issue en este repositorio o contactar al autor del pipeline.
+
 Ph.D.(c) Allan Peñaloza - Otárola
 allan.penaloza@ug.uchile.cl
