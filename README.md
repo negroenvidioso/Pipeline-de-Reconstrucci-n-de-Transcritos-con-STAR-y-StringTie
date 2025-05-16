@@ -20,8 +20,8 @@ Este repositorio contiene un pipeline automatizado para la alineación de lectur
 
 ## ⚙️ Requisitos
 
-- STAR (≥ 2.7)
-- StringTie (≥ 2.2)
+- STAR (≥ 2.7) (https://github.com/alexdobin/STAR)
+- StringTie (≥ 2.2) (https://github.com/gpertea/stringtie)
 - GNU awk, gzip, bash
 - Referencia genómica indexada para STAR
 - Anotación de referencia en formato GFF/GTF
